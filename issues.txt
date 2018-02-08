@@ -1,0 +1,7 @@
+1. Admin features: From admin dashboard to create, then back to admin dashboard 
+	it goes back to the user dashboard.
+2. Admin features: Delete user function, if nothing is in the field, it still
+	"deletes" the user.
+3. Logout then login, the entry fields still have data.
+4. Windows: If main window closed (of all the frames), and others are open (admin features) those
+	windows will remain open.
